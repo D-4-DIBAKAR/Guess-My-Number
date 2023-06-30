@@ -6,7 +6,8 @@ This Project is a Simple Game Project developed using HTML, CSS, Javascript...
 
 
 
-## Uses 
+## Live at :
+ tinyurl.com/2ylug23y
 ## Snapshots Of Guess My Number 🏆
 
 ![App Screenshot](https://github.com/D-4-DIBAKAR/Guess-My-Number/assets/71878062/96bd3d78-3715-4c24-a2c5-1f57f63dd83e)
